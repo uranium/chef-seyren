@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "java": ">= 1.25.0",
-    "application_java": "~> 3.0.0",
+    "application_java": "= 3.0.2",
     "mongodb": ">= 0.0.0",
     "tomcat": "= 0.15.12"
   },
