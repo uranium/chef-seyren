@@ -11,7 +11,7 @@
     "java": ">= 1.25.0",
     "application_java": "~> 3.0.0",
     "mongodb": ">= 0.0.0",
-    "tomcat", "= 0.15.12"
+    "tomcat": "= 0.15.12"
   },
   "recommendations": {
   },
@@ -29,5 +29,5 @@
   },
   "recipes": {
   },
-  "version": "0.4.2"
+  "version": "0.4.3"
 }
